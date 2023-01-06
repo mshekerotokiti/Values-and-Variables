@@ -1,5 +1,5 @@
-//let js = "amazing";
-        //if (js === "amazing") alert ("Javascript is Fun!");
+        let js = "amazing";
+        if (js === "amazing") alert ("Javascript is Fun!");
 
         console. log(20*4-30);
         console. log( "Benson is the Manager at Kurunzi Media");
